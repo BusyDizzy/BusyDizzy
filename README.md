@@ -17,7 +17,7 @@ I am a Java Developer from Russia based in Thailand.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Java applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Algo trading.
   
 - :zap: In my free time, I develop crypto Trading Bots and read tech articles.
   
