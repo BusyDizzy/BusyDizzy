@@ -13,7 +13,7 @@
 </h1>
 
 ### :man_technologist: About Me :
-I am a Java Developer from Russia and based in Thailand.
+I am a Java Developer from Russia based in Thailand.
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building Java applications.
 
