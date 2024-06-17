@@ -59,3 +59,8 @@ I am a Java Developer from Russia and based in Thailand.
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%23008080.svg?style=for-the-badge&logo=ci-cd&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-%234EAA25.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Unix](https://img.shields.io/badge/Unix-%23DCDCDC.svg?style=for-the-badge&logo=unix&logoColor=black)
+
+### :fire: My Stats :
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=BusyDizzy&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BusyDizzy&layout=compact&theme=vision-friendly-white)](https://github.com/anuraghazra/github-readme-stats)
